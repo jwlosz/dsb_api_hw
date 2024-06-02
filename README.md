@@ -1,1 +1,2 @@
 # dsb_api_hw
+# HW number 6 submission - inital submission includes incomplete code for VacationPy. This will be corrected in a resubmission. All submission docs can be located within the "SUBMISSION" folder. 
